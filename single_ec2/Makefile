@@ -10,4 +10,4 @@ build:
 	agc build
 
 after:
-	chmod 0600 $(BUILD_DST)/*.sh
+	chmod 0500 $(BUILD_DST)/*.sh
