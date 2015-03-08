@@ -1,2 +1,4 @@
-_builds/
-_retired/
+.python-version
+*.pyc
+_builds
+_retired
